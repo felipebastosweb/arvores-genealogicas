@@ -4,13 +4,18 @@
 <script type="text/javascript" src="assets/js/tree_maker.js"></script>
 </head>
 <body style="">
-<div id="my_tree" style="width: 5000px; "></div>
+<div id="my_tree" style="width: 10000px; "></div>
 <script type="text/javascript">
     let tree = {
         1: {
             2: {
-              19: '',
-              20: '',
+              19: {
+                40: '',
+                42: ''
+              },
+              20: {
+                41: ''
+              },
               21: '',
               22: ''
             },
@@ -100,7 +105,10 @@
         36: {trad: 'Jessica ...'},
         37: {trad: 'Raiana Medrado'},
         38: {trad: 'Rafaela Medrado'},
-        39: {trad: 'Guilherme Medrado'}
+        39: {trad: 'Guilherme Medrado'},
+        40: {trad: 'Abraão Bastos Rebouças'},
+        41: {trad: 'Caetano Bastos'},
+        42: {trad: ''}
     };
 
     treeMaker(tree, {
