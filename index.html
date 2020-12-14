@@ -3,7 +3,7 @@
 <link rel="stylesheet" href="assets/css/tree_maker.css">
 <script type="text/javascript" src="assets/js/tree_maker.js"></script>
 </head>
-<body style="overflow-y: scroll;overflow-x: scroll;">
+<body style="overflow-y: scroll; overflow-x: scroll;">
 <div id="my_tree"></div>
 <script type="text/javascript">
     let tree = {
@@ -37,13 +37,18 @@
               25: ''
             },
             8: {
-              27: '',
+              27: {
+                30: '',
+                31: ''
+              },
               28: '',
               29: ''
             },
             9: '',
             10: '',
-            11: ''
+            11: {
+              32: '',
+              33: ''
         },
     };
 
@@ -76,7 +81,11 @@
         26: {trad: 'Nicholas Costa Bastos'},
         27: {trad: 'Suelem Bastos Dantas'},
         28: {trad: 'Samuel Bastos Dantas'},
-        29: {trad: 'Rafael Bastos Dantas'}
+        29: {trad: 'Rafael Bastos Dantas'},
+        30: {trad: 'Pedro Dantas'},
+        31: {trad: 'Melissa Dantas'},
+        32: {trad: 'Dara Bastos'},
+        33: {trad: 'Davi Bastos'}
     };
 
     treeMaker(tree, {
