@@ -1,4 +1,4 @@
-var tree_gregorio_maria_candida = {
+var tree_oliveira_bastos = {
     
       100: {
         102: '',
@@ -115,7 +115,7 @@ var tree_gregorio_maria_candida = {
     },
 };
 
-let treeParams_tree_gregorio_maria_candida = {
+let treeParams_tree_oliveira_bastos = {
     1: {trad: 'Antonio Herculano de Oliveira Bastos e Eunice da Cruz Bastos'},
     2: {trad: 'Joel da Cruz Bastos (Inêz Andrade/Ana Valéria)'},
     3: {trad: 'Elienai da Cruz Bastos (Leopoldo Santana Moraes)'},
@@ -205,11 +205,11 @@ let treeParams_tree_gregorio_maria_candida = {
     1001: {trad: 'Manoel Roque Moreira Bastos'}
 };
 
-treeMaker(tree_gregorio_maria_candida, {
-    id: 'id_tree_gregorio_maria_candida', card_click: function (element) {
+treeMaker(tree_oliveira_bastos, {
+    id: 'id_tree_oliveira_bastos', card_click: function (element) {
         console.log(element);
     },
-    treeParams: treeParams_tree_gregorio_maria_candida,
+    treeParams: treeParams_tree_oliveira_bastos,
     'link_width': '4px',
     'link_color': '#2199e8',
 });
