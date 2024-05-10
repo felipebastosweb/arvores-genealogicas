@@ -80,6 +80,7 @@ var tree_oliveira_bastos = {
                         },
                         36: {
                             64: '',
+                            65: '',
                         },
                         37: '',
                         38: '',
@@ -195,6 +196,7 @@ let treeParams_tree_oliveira_bastos = {
     62: {trad: 'Mikaele Cruz'},
     63: {trad: 'Joaquim Cruz'},
     64: {trad: 'Miguel de Jéssica'},
+    65: {trad: 'Vallentina Cerqueira'},
     102: {trad: 'Ermírio Malaquias de Oliveira Bastos'},
     103: {trad: 'José Albino de Oliveira Bastos'},
     104: {trad: 'Beatriz de Oliveira Bastos'},
