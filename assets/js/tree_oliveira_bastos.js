@@ -44,7 +44,10 @@ var tree_oliveira_bastos = {
                         15: '',
                     },
                     1003: {
-                        12: '',
+                        12: {
+                            66: '',
+                            67: '',
+                        },
                         13: {
                             43: ''
                           }
@@ -77,10 +80,10 @@ var tree_oliveira_bastos = {
                     1009: {
                         35: {
                             46: '',
+                            65: '',
                         },
                         36: {
                             64: '',
-                            65: '',
                         },
                         37: '',
                         38: '',
@@ -197,6 +200,8 @@ let treeParams_tree_oliveira_bastos = {
     63: {trad: 'Joaquim Cruz'},
     64: {trad: 'Miguel de Jéssica'},
     65: {trad: 'Vallentina Cerqueira'},
+    66: {trad: 'Mateus ___ Bastos'},
+    67: {trad: 'Sofia ___ Bastos'},
     102: {trad: 'Ermírio Malaquias de Oliveira Bastos'},
     103: {trad: 'José Albino de Oliveira Bastos'},
     104: {trad: 'Beatriz de Oliveira Bastos'},
