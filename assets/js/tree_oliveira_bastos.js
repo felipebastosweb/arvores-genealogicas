@@ -5,9 +5,9 @@ var tree_oliveira_bastos = {
                 102: '',
                 103: {
                     // Filhos de Jose Albino
-                    200: '',
-                    201: '',
-                    202: ''
+                    2000: '',
+                    2001: '',
+                    2002: ''
                 },
                 104: '',
                 105: '',
@@ -15,15 +15,15 @@ var tree_oliveira_bastos = {
                 107: '',
                 108: {
                     // Filhos de Marina
-                    300: '',
-                    301: '',
-                    302: '',
+                    3000: '',
+                    3001: '',
+                    3002: '',
                 },
                 109: {
                     // Filhos de Sergina
-                    400: '',
-                    401: '',
-                    402: '',
+                    4000: '',
+                    4001: '',
+                    4002: '',
                 },
                 1000:{
                     1001: {
@@ -205,17 +205,17 @@ let treeParams_tree_oliveira_bastos = {
     109: {trad: 'Sergina de Oliveira Bastos'},
     110: {trad: 'Maria Cândida de Oliveira Bastos (Mariá)'},
     // Filhos de Jose Agripino??
-    200: {trad: 'Isaías Bastos'},
-    201: {trad: 'Paulo Bastos'},
-    202: {trad: 'Gerson de O. Bastos'},
+    2000: {trad: 'Isaías Bastos'},
+    2001: {trad: 'Paulo Bastos'},
+    2002: {trad: 'Gerson de O. Bastos'},
     // Filhos de Marina
-    300: {trad: 'Adriana Bastos'},
-    301: {trad: 'Paulo Dias'},
-    302: {trad: 'Sergio Dias'},
+    3000: {trad: 'Adriana Bastos'},
+    3001: {trad: 'Paulo Dias'},
+    3002: {trad: 'Sergio Dias'},
     // Filhos de Sergina
-    400: {trad: 'Jose Roberto Bastos Leal'},
-    401: {trad: 'Reinaldo Bastos Leal'},
-    402: {trad: 'Luiz Rogério Leal'},
+    4000: {trad: 'Jose Roberto Bastos Leal'},
+    4001: {trad: 'Reinaldo Bastos Leal'},
+    4002: {trad: 'Luiz Rogério Leal'},
     2010: {trad: 'Jorge Oliveira Bastos'},
     2100: {trad: 'Aguida Bastos'},
 };
