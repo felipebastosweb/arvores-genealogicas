@@ -157,7 +157,7 @@ let treeParams_tree_oliveira_bastos = {
     710: {trad: 'Deusdeth Bastos'},
     720: {trad: '"Zica" Bastos'},
     730: {trad: 'Angelina Bastos de Jesus'},
-    740: {trad: 'Tia de Joelma Bastos'},
+    740: {trad: '"Deli" Bastos'},
     711: {trad: 'Josenildo Bastos Nascimento'},
     712: {trad: 'Joelma Bastos Nascimento'},
     713: {trad: 'Joseivo Bastos Nascimento'},
