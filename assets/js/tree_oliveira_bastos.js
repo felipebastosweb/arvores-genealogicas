@@ -49,7 +49,8 @@ var tree_oliveira_bastos = {
                             67: '',
                         },
                         13: {
-                            43: ''
+                            43: '',
+                            44: '',
                           }
                     },
                     1004: {
@@ -165,7 +166,7 @@ let treeParams_tree_oliveira_bastos = {
     711: {trad: 'Josenildo Bastos Nascimento'},
     712: {trad: 'Joelma Bastos Nascimento e Felipe Augusto Bastos Moraes'},
     713: {trad: 'Joseivo Bastos Nascimento e '},
-    714: {trad: '"Pequeno" Bastos Nascimento e Eliana de Jesus'},
+    714: {trad: 'Joilson Bastos Nascimento e Eliana Santos'},
     716: {trad: 'João Victor da Cruz Nascimento'},
     717: {trad: 'Arthur de Jesus Nascimento'},
     1000: {trad: 'Antonio Herculano de Oliveira Bastos e Eunice da Cruz Bastos'},
@@ -211,6 +212,7 @@ let treeParams_tree_oliveira_bastos = {
     41: {trad: 'Caetano Bastos'},
     42: {trad: 'Bianca Bastos Rebouças'},
     43: {trad: 'Miguel Bastos Almeida'},
+    44: {trad: 'Eduardo Bastos Almeida'},
     45: {trad: 'Guilherme Bastos'},
     46: {trad: 'Bernardo Cerqueira'},
     47: {trad: 'Jairo Mendes da Cruz'},
