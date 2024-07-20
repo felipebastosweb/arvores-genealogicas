@@ -158,7 +158,7 @@ let treeParams_tree_oliveira_bastos = {
     500: {trad: 'Cerila de Oliveira Bastos e '},
     600: {trad: 'Amélia de Oliveira Bastos e '},
     700: {trad: 'Raimunda Bastos e '},
-    701: {trad: 'Saturnina Santana Bastos'},
+    701: {trad: 'Saturnina Santana Bastos e José Filinto Bastos'},
     710: {trad: 'Deusdeth Bastos Nascimento e José Nascimento'},
     720: {trad: '"Zica" Bastos e Augustinho'},
     730: {trad: 'Angelina Bastos de Jesus e Ailton de Jesus'},
